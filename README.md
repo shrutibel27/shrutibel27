@@ -32,13 +32,7 @@ I am a passionate B.Tech student with a passion for development, coding, and con
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutibel27&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=shrutibel27&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrutibel27&theme=blue_navy&hide_border=false)<br/>
-
+<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +42,16 @@ I am a passionate B.Tech student with a passion for development, coding, and con
 <a href="https://www.leetcode.com/sbcode5825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sbcode5825/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sbcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sbcoder" height="30" width="40" /></a>
 </p>
+
+<hr> 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutibel27&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shrutibel27&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shrutibel27&theme=blue_navy&hide_border=false)<br/>
+
+
+
 
 
 
